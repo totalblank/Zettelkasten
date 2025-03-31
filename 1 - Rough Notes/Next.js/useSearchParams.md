@@ -1,0 +1,1 @@
+`useSearchParams` is a Client Component hook that lets you read the current URL's query string, returns a read-only version of [URLSearchParams](https://developer.mozilla.org/docs/Web/API/URLSearchParams). 

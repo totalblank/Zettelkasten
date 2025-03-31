@@ -1,0 +1,1 @@
+These are a new type of Component that renders ahead of time, before bundling, in an environment separate from the client app or SSR server.

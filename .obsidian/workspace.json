@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9ad7a14d93cda7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "03fc8e1eed9ecaf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e246d4b1e3af9e8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Deep Learning with Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Learning with Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "290af264dc477f73",
+    "type": "split",
+    "children": [
+      {
+        "id": "3198771fcd6ecb0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d89737c4d9c2d559",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c9436a810a372b3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b46c29a8e2c4d8cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "98b95567066d1a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff2d9e734d881ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f889df65ffd72215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Next JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Next JS"
+            }
+          },
+          {
+            "id": "395750b4ddf3e947",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "78ab21aa157bdf37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "527b40fc5807b394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e246d4b1e3af9e8f",
+  "lastOpenFiles": [
+    "Keras and Tensorflow.png",
+    "6 - Main Notes/Deep Learning with Python.md",
+    "Pasted image 20250330230601.png",
+    "6 - Main Notes/React JS.md",
+    "lifting state up in React.png",
+    "6 - Main Notes/Journal.md",
+    "6 - Main Notes/Vocab.md",
+    "5 - Templates/Full Note.md",
+    "6 - Main Notes/Django.md",
+    "6 - Main Notes/Database.md",
+    "7 - Media/Trading - bullish phases.png",
+    "7 - Media/Next.js - route groups - loading skeleton.png",
+    "6 - Main Notes/`useSearchParams`.md",
+    "7 - Media/Pasted image 20250312232354.png",
+    "6 - Main Notes/Building a Project.md",
+    "6 - Main Notes/Next JS.md",
+    "1 - Rough Notes/Next.js/useSearchParams.md",
+    "1 - Rough Notes/Next.js",
+    "6 - Main Notes/Resources.md",
+    "1 - Rough Notes/Route Groups.md",
+    "7 - Media/Trading - long upper and lower wick.png",
+    "7 - Media/Next.js - streaming 2.png",
+    "7 - Media/Next.js - route groups.png",
+    "7 - Media/Next.js - streaming.png",
+    "6 - Main Notes/().md",
+    "1 - Rough Notes/Trading video 1.md",
+    "1 - Rough Notes/JavaScript Promises.md",
+    "6 - Main Notes/Promises.md",
+    "1 - Rough Notes/React Server Components.md",
+    "1 - Rough Notes/Graph Neural Network.md",
+    "6 - Main Notes/Trading.md",
+    "6 - Main Notes/React.md",
+    "7 - Media",
+    "3 - Tags/thoughts.md",
+    "Untitled 1.canvas",
+    "6 - Main Notes/2025-03-08.md",
+    "Untitled.canvas",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Main Notes",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
