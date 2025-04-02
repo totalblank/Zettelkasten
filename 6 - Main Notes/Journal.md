@@ -92,4 +92,9 @@ Sometimes, I lose my control and try to do all things at once. But that is the w
 Today was not bad. But I still wasted some amount of time. I have got a lot of work to do.
 
 # Stuck
+
 This is what you get for getting comfortable. You get nothing. Just admit that you are never going to be happy. Happiness is not for you. Just work and work. Don't think about anything else.
+
+# Roam and Roar
+
+I mustn't worry about unnecessary things. Women don't matter simply because I am not a woman. I must always be focused. That might sound like an abnormal task, but I'm neither trying to be normal nor sane. I don't mind the insanity as long as I am the best of the best. I am created some TODO items, I am going to achieve all of them.

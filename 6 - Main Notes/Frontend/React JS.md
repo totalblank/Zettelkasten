@@ -33,7 +33,7 @@ Use a JSX Converter to translate existing HTML and SVG to JSX.
 
 # Book
 
-Completed till page 55.
+Start from page 82.
 
 ### Callback handler
 
@@ -50,6 +50,21 @@ So, when an event handler is passed on props from a parent component to it's chi
 * If a component below needs to update the state, pass a callback handler down to it which allows this particular component to update the state above in the parent component.
 * If a component below needs to use the state, pass it down as a prop.
 
+HTML elements come with their internal state which is not coupled to React. HTML should know about the React state.
+
+Even though both have the same syntax (three dots), the rest operator shouldn't be mistaken with the spread operator. Whereas the rest operator happens on the left side of an assignment, the spread operator happens on the right side. The rest operator is always used to separate an object from some of its properties. Below is an example of rest operator,
+
+```JavaScript
+const List = ({ list }) => (
+  <ul>
+    {list.map(({ objectID, ...item }) => (
+      <Item key={objectID} {...item} />
+    ))}
+  </ul>
+)
+```
+
+In this variation, the rest operator is used to destructure the `objectID` from the rest of the item object. Afterward, the `item` is spread with its key/value pairs into the Item component.
 ### Interview questions
 
 **Q1**: What is JSX in React?
@@ -139,7 +154,51 @@ So, when an event handler is passed on props from a parent component to it's chi
 **Q29**: Is it necessary to lift all state to the top-level parent component?
 **Answer**: No, only lift state to a level where it needs to be shared among multiple components.
 
-**Q30**: How does lifting state contribute to better component reusability? 
+**Q30**: How does lifting state contribute to better component re-usability? 
 **Answer**: Lifting state allows stateful logic to be concentrated in a common ancestor, making components more reusable.
 
+Q31: What is a controlled component in React?
+Answer: A controlled component is a component whose form elements are controlled by React state.
 
+Q32: How do you create a controlled input in React?
+Answer: Set the input value attribute to a state variable and provide an `onChange` handler to update the state.
+
+Q33: What is the role of the value prop in a controlled input element?
+Answer: The value prop sets the current value of the input, making it a controlled component.
+
+Q34: How do you handle a controlled checkbox in React?
+Answer: Use the `checked` attribute and provide an `onChange` handler to update the corresponding state.
+
+Q35: How do you clear the value of a controlled component?
+Answer: Set the state variable to an empty or null value to clear the value of a controlled component.
+
+Q36: What are the potential downsides of using controlled components?
+Answer: Controlled components can lead to verbose code, especially in forms with many input elements.
+
+Q37: How do you destructure props in a function component's parameters?
+Answer: You can destructure props directly in the function parameters like
+`MyComponent({ prop1, prop2}) { .... }`
+
+Q38: Can you provide a default value while destructuring props?
+Answer: Yes, you can provide default values during destructuring such as, `{ prop1 = 'default', prop2 }`
+
+Q39: Is it necessary to destructure all props, or can you choose specific ones?
+Answer: You can choose to destructure specific props based on your component's needs, leaving others untouched.
+
+Q40: How is the spread operator used in React props?
+Answer: The spread operator is used to pass all properties of an object as separate props to a React component, like `<MyComponent {...obj} />`.
+
+Q41: Can you use the spread operator to combine props with additional ones?
+Answer: Yes, you can combine existing props with additional ones using the spread operator, like `<MyComponent {...props} newProp={value} />`
+
+Q42: Does the spread operator create a shallow or deep copy of an object?
+Answer: The spread operator create a shallow copy of an object, meaning nested objects are still references to the original.
+
+Q43: What is the purpose of the rest operator in React?
+Answer: The rest operator is used to collect remaining properties into a new object, often used in combination with props destructuring.
+
+Q44: Why is array destructuring used for React Hooks like `useState` and object destructuring for props?
+Answer: A React Hook like `useState` returns an array whereas props are an object; hence we need to apply the appropriate operation for the underlying data structure. The benefit of having an array returned from `useState` is the the values can be given any name in the destructuring operation.
+
+Q45: What is prop drilling in React?
+Answer: Prop drilling is the process of passing props through multiple layers of components to reach a deeply nested child component.

@@ -13,7 +13,7 @@ Real world examples of data tensors
 
 * *Vector data* $\rightarrow$ Rank 2 tensors of shape `(samples, features)`, where each sample is a vector of numerical attributes ("features").
 * *Timeseries data or sequence data* $\rightarrow$ Rank 3 tensors of shape `(samples, timesteps, features)`, where each sample is a sequence (of length `timesteps`) of feature vectors. Time axis is always the second axis (`axis=1`).
-* *Images* $\rightarrow$ Rank 4 tensors of shape (`samples, height, width, channels`), where each 2D gride of pixels, and each pixel is represented by a vector of values ("channels").
+* *Images* $\rightarrow$ Rank 4 tensors of shape (`samples, height, width, channels`), where each 2D grid of pixels, and each pixel is represented by a vector of values ("channels").
 * *Video* $\rightarrow$ Rank 5 tensors of shape `(samples, frames, height, width, channels)`, where each sample is a sequence (of length `frames`) of images.
 
 ## Tensor operations
@@ -79,3 +79,24 @@ Keras is a deep learning API for Python, built on top of TensorFlow, that provid
 
 ![[Keras and Tensorflow.png]]
 
+Training a neural network revolves around the following concepts,
+
+1. Low level tensor manipulation $\rightarrow$ the infrastructure that underlines all modern machine learning. This translates to TensorFlow APIs:
+	* *Tensors*, including special tensors that store the network's state (variables)
+	* *Tensor operations* such as addition, `relu, matmul`
+	* *Backpropagation*, a way to compute the gradient of mathematical expressions (handled in TensorFlow via the `GradientTape` object)
+2. High level deep learning concepts. This translates to Keras APIs:
+	* *Layers*, which are combined into a *model*.
+	* A *loss function*, which defines the feedback signal used for learning.
+	* An *optimizer*, which determines how learning proceeds.
+	* *Metrics* to evaluate model performance, such as accuracy.
+	* A *training loop* that performs mini-batch stochastic gradient descent
+
+NumPy arrays are assignable, but TensorFlow tensors are not assignable. That is why the following gives an error,
+
+```Python
+x = tf.ones(shape=(2, 2))
+x[0, 0] = 0.
+```
+
+`tf.Variable` is the class meant to manage modifiable state in TensorFlow.
