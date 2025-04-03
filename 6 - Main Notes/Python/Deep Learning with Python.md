@@ -100,3 +100,70 @@ x[0, 0] = 0.
 ```
 
 `tf.Variable` is the class meant to manage modifiable state in TensorFlow.
+
+### Keras hyperparameters
+
+* **Units:** defines the size of the dense layer output. It is always a positive integer.
+* **Activation:** transforms neuron input values. By introducing non-linearity, neural networks are able to understand the relationship between input and output values.
+* **The kernel weight matrix:** used to multiply input data and extract its main characteristics. Here, several parameters can be used to initialize, regularize, or constrain the matrix.
+* **The bias vector:** these are the additional data sets that require no input and corresponds to the output layer. 
+
+In a dense neural network, the results of the previous layers are transmitted to the dense layer. There is thus hyper-connection between the different layers making up the architecture of the learning model. 
+
+To learn from data, you have to make assumptions about it. These assumptions define what can be learned. As such, the structure of your hypothesis space $\rightarrow$ the architecture of your model $\rightarrow$ is extremely important. It encodes the assumptions you make about your problem, the prior knowledge that the model starts with. For instance, if you're working on a two-class classification problem with a model made of a single `Dense` layer with no activation (a pure affine transformation), you are assuming that your two classes are linearly separable.
+
+Once the model architecture is defined, you still have to choose three more things:
+
+* Loss function (objective function) $\rightarrow$ The quantity that will be minimized during training. It represents a measure of success for the task at hand.
+* Optimizer $\rightarrow$ Determines how the network will be updated based on the loss function. It implements a specific variant of Stochastic Gradient Descent (SGD).
+* Metrics $\rightarrow$ The measures of success you want to monitor during training and validation, such as classification accuracy. Unlike the loss, training will not optimize directly for these metrics. As such, metrics don't need to be differentiable.
+
+```Python
+# Define a linear classifier
+model = keras.Sequential([keras.layers.Dense(1)])
+
+model.compile(
+	optimizer="rmsprop", # becomes keras.optimizers.RMSprop()
+	loss="mean_squared_error",
+	metrics=["accuracy"]
+)
+```
+
+### Picking a loss function
+
+Choosing the right loss function for the right problem is extremely important: your network will take any shortcut it can to minimize the loss, so if the objective doesn't fully correlate with success for the task at hand, your network will end up doing  things you may not have wanted.
+
+### Calling `fit()` with NumPy data
+
+```Python
+history = model.fit(
+	inputs,            # the input examples, as a NumPy array
+	targets,           # the corresponding training targets
+	epochs=5,          # the training loop will iterate over the data 5 times
+	batch_size=128     # the training loop will iterate over the data in batches of 128 examples
+)
+```
+The call to `fit()` returns a `History` object. 
+
+The goal of machine learning is to obtain models that perform well in general, and particularly on data points that the model has never encountered before. Reserve a subset of the training data as *validation data*: you won't be training the model on this data, but you will use it to compute a loss value and metrics value. You do this by using the `validation_data` argument in `fit()`. The value of the loss on the validation data is called the "validation loss" to distinguish it from the "training loss". It's essential to keep the training data and validation data strictly separate: the purpose of validation is to monitor whether what the model is learning is actually useful on new data.
+
+### Inference: Using a model after training
+
+Use the `model.predict()` method. It will iterate over the data in small batches and return a NumPy array of predictions.
+
+## Chapter 4: Classification and regression
+
+### Glossary
+* *Sample* or *input* $\rightarrow$ One data point that goes into your model
+* *Prediction* or *output* $\rightarrow$ What comes out of your model
+* *Target* $\rightarrow$ The truth. What your model should ideally have predicted, according to an external source of data.
+* *Prediction error* or *loss value* $\rightarrow$ A measure of the distance between your model's prediction and the target.
+* *Classes* $\rightarrow$ A set of possible labels to choose from in a classification problem. For example, when classifying cat and dog pictures, "dog" and "cat" are the two classes.
+* *Label* $\rightarrow$ A specific instance of a class annotation in a classification problem. For instance, if picture #1234 is annotated as containing the class "dog", then "dog" is a label of picture #1234.
+* *Ground-truth* or *annotations* $\rightarrow$ All targets for a dataset, typically collected by humans.
+* *Binary classification* $\rightarrow$ A classification task where each input sample should be categorized into two exclusive categories.
+* *Multiclass classification*
+* *Multilabel classification*
+* *Scalar regression*
+* *Vector regression*
+* *Mini-batch or batch*

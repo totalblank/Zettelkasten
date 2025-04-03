@@ -98,3 +98,13 @@ This is what you get for getting comfortable. You get nothing. Just admit that y
 # Roam and Roar
 
 I mustn't worry about unnecessary things. Women don't matter simply because I am not a woman. I must always be focused. That might sound like an abnormal task, but I'm neither trying to be normal nor sane. I don't mind the insanity as long as I am the best of the best. I am created some TODO items, I am going to achieve all of them.
+
+But first, I need to be firm on the way things are going to be. I plan on generating income through coding. For that, I have to build some projects. What projects can I think of? I am interested in Pure Mathematics and Machine Learning. I want to use these to build some projects.
+
+# Reality
+
+Even wonder why most rich guys are not fit? Yes, because they've cracked the code. They know that in this life, what matters is money and social acceptance. And society doesn't condemn unfit men, society condemns poor guys. Majority of the societal members admire rich guys and not fit guys. This is why there are more rich guys than there are fit guys. 
+
+All these are common knowledge, but these hit you sometimes very hard. I'll be needing money, soon. And I must create a plan.
+
+All things are necessary, some are more necessary and some are less. These things are calculated by fools. Everything is game. Treat everything as game. 
