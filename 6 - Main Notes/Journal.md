@@ -107,4 +107,14 @@ Even wonder why most rich guys are not fit? Yes, because they've cracked the cod
 
 All these are common knowledge, but these hit you sometimes very hard. I'll be needing money, soon. And I must create a plan.
 
-All things are necessary, some are more necessary and some are less. These things are calculated by fools. Everything is game. Treat everything as game. 
+All things are necessary, some are more necessary and some are less. These things are calculated by fools. Everything is game. Treat everything as game.
+
+# Thorough
+
+Being thorough about everything is necessary. I can't afford to be half in. I must go all out. There are some real life tasks I must attend to,
+
+1. My father is getting old. I have to earn a lot of money and give to him. He loves spending money.
+2. I'll be needing two laptops and two tabs (for me and my brother).
+3. I need savings.
+
+I have decided that my primary earning source will be developing software. I have to build a lot of things, a lot of projects and start doing freelancing work.

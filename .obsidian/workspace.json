@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main Notes/Pure Mathematics/Roadmap.md",
+                "file": "6 - Main Notes/Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "Journal"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "7bdb6ee3df231ec7",
   "lastOpenFiles": [
-    "6 - Main Notes/Pure Mathematics/Linear Algebra.md",
     "6 - Main Notes/Pure Mathematics/Roadmap.md",
+    "6 - Main Notes/Pure Mathematics/Linear Algebra.md",
     "6 - Main Notes/Pure Mathematics",
     "6 - Main Notes/Python/Deep Learning with Python.md",
     "6 - Main Notes/Journal.md",
