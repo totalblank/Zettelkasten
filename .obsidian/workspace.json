@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "410de006b3a3eaf2",
+        "id": "50913c5fe7c9ed5c",
         "type": "tabs",
         "children": [
           {
-            "id": "7bdb6ee3df231ec7",
+            "id": "c99208ab8a094091",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,13 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bdb6ee3df231ec7",
+  "active": "c99208ab8a094091",
   "lastOpenFiles": [
+    "6 - Main Notes/Journal.md",
+    "6 - Main Notes/Trading/Basics.md",
+    "6 - Main Notes/Trading",
     "6 - Main Notes/Pure Mathematics/Roadmap.md",
     "6 - Main Notes/Pure Mathematics/Linear Algebra.md",
     "6 - Main Notes/Pure Mathematics",
     "6 - Main Notes/Python/Deep Learning with Python.md",
-    "6 - Main Notes/Journal.md",
     "6 - Main Notes/Projects.md",
     "6 - Main Notes/Database.md",
     "6 - Main Notes/Building a Project.md",
@@ -212,10 +214,8 @@
     "7 - Media",
     "3 - Tags/thoughts.md",
     "Untitled 1.canvas",
-    "6 - Main Notes/2025-03-08.md",
     "Untitled.canvas",
     "6 - Main Notes",
-    "5 - Templates",
-    "4 - Indexes"
+    "5 - Templates"
   ]
 }

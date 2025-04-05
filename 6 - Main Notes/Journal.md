@@ -118,3 +118,20 @@ Being thorough about everything is necessary. I can't afford to be half in. I mu
 3. I need savings.
 
 I have decided that my primary earning source will be developing software. I have to build a lot of things, a lot of projects and start doing freelancing work.
+
+# In a Fix
+
+Well, I know that I have to work and do this and do that. But I really can't pull things through. I went through quite a bit of transformation for the last couple of months. I quit smoking, I had to leave my life at BUET, I started making my coding portfolio. I have started worrying about things a lot more than I used to. But worrying never solved anything, ever. In the end, I am just not sharp enough and I can't perform up to my mark. This is not good. I must ease into things. That doesn't mean I should delay things, no. Rather, I have to give it some time. Let's say I become ultra focused, and then after an hour, I am out of my chair. This is not good. Rather, if I start slowly and build up to the task, it will ensure a higher chance of success. 
+
+Also, I must keep room for entertainment and limit my daily social media usage. Social media is not entertainment. I love reading books and I must get back to it. Be healthy and sharp.
+
+In my opinion, currently, I am the dumbest I have ever been. I always put things off for tomorrow. But tomorrow doesn't exist. Now is the only time. I must make a plan and stick to it. The plan must me made with pen and paper. I have to do this, I have to do that. I have to fix myself on something. I have everything that I could possibly need. All I have to do is point out what are the things that are important in this lifetime, and I am going to be all set. I have an image of myself that I subconsciously formed over the years. **I want to be a fit good looking person who is good at math, good at coding, has a lot of money, who is also good at playing the flute, who also strums guitar from time to time.**
+It aches me a lot that I have wasted a lot of time on shit that doesn't matter. Instead, I should have focused on things that do matter. I have a lot of time. If I concentrate and keep calm, I can be all the things that I want to be. My time starts now.
+
+# Shit life
+
+Sometimes, I honestly think that my life is an eternal series of farces. After a while, I think to myself nothing and decide that I have time, and that I am going to be all okay. I don't know why I think that to myself, but I do think that to myself. Now, I don't know what is going on with myself. I don't know what I am lacking, am I lacking discipline, or luck? I can't tell.
+
+I like coding and I have been exposed to coding when I was just 17. Yet, I couldn't do anything significant with coding. I always wanted to have a good body, but I don't. And I've been exercising for about 6 years now, well, on and off. These are not the point. To my understanding, my choices are very poor. I can't make good choices. That is why I am always lagging behind. Due to my poor choices, I am not who I wanted to be. I am going to say to myself that I am going to change and everything changes now. But am I really going to change?
+
+For example, tomorrow, I have a lot of time. I have one tuition at 7 PM, and gym at 8:30 to 9:45. After that, I should be all set by 10:30 PM. From 10:30, I am going to have about 4 hours, from which, I should be able to utilize 3 hours. I am going to wake up at 10 AM and I should be all set by 11 AM. These are all pessimistic thoughts, and I know that in reality, I have way more time than am writing now. From 11 AM to 7 PM, I have 8 hours, I should be able to utilize about 7 hours here. So, I should be able to utilize 10 hours tomorrow. But am I really going to? I must. There are no other options.
