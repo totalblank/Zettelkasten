@@ -135,3 +135,38 @@ Sometimes, I honestly think that my life is an eternal series of farces. After a
 I like coding and I have been exposed to coding when I was just 17. Yet, I couldn't do anything significant with coding. I always wanted to have a good body, but I don't. And I've been exercising for about 6 years now, well, on and off. These are not the point. To my understanding, my choices are very poor. I can't make good choices. That is why I am always lagging behind. Due to my poor choices, I am not who I wanted to be. I am going to say to myself that I am going to change and everything changes now. But am I really going to change?
 
 For example, tomorrow, I have a lot of time. I have one tuition at 7 PM, and gym at 8:30 to 9:45. After that, I should be all set by 10:30 PM. From 10:30, I am going to have about 4 hours, from which, I should be able to utilize 3 hours. I am going to wake up at 10 AM and I should be all set by 11 AM. These are all pessimistic thoughts, and I know that in reality, I have way more time than am writing now. From 11 AM to 7 PM, I have 8 hours, I should be able to utilize about 7 hours here. So, I should be able to utilize 10 hours tomorrow. But am I really going to? I must. There are no other options.
+
+Mind doesn't function the same all the time. What value can I provide to my customers? What are the things that I am capable of doing?
+
+* I am a full stack developer with sufficient expertise in both frontend and backend.
+* I build the frontend using React.js and/or Next.js and the backend using Django Rest Framework.
+* I can perform exploratory and inferential data analysis on any type of data.
+* I can build ML models using TensorFlow and Keras, train the model, and test it. I can argue about the various parameters of the model.
+* I can do your DSA homework.
+
+# What could've been
+
+I really wanted to be a competitive coder. I am 24 years old now. Even if I try, I can't be one. In the following 6 months, I am going to track everything that I important to me.
+
+* I am going to start earning money through Fiverr using React, Next, Python, and ML. Basically, everything I can, I am going to offer.
+* I am going to get a phenomenal score in GRE.
+* I am going to be fit.
+* I am going to finish my paper.
+* Each day, I am going to spend 1 hour learning and doing trading.
+
+I will track every single thing, and how many time I am spending on each. I am hoping to give 100 hours per task.
+
+# Dependency
+
+I have become too much dependent on things that don't matter. I no longer am dependent on unnecessary things.
+It takes a lot of energy to do things. That is why, mind chooses the easy way out.
+
+# Turmoil
+
+I was quite a bit harsh today. Being rude affects me more than it affects others. But today was necessary. She doesn't seem to understand what I say. But I think I made myself pretty clear today. Even my aunt was there. I conveyed everything honestly and brutally, which I am not proud of. But I had to, because she can't understand when I am polite.
+I have figured out that the only things that are of most importance in this lifetime is myself, and my family, and nothing else. I think I am always going to have myself, and I also think that I am going to have my family. But it doesn't matter if they are not by my side, but I am always going to be at their side. I think that I am enough for myself. I don't think that I need any emotional or mental assurance from anyone except for myself. I don't need her to love me.
+At this point, I don't love anybody except for my family. But I feel bad for all the bad things I said to her. I treated her really badly yesterday. But the thing is, she also treated me badly before. I should not feel bad about this, but I do. I think have to live with this trait of mine. Because people are not going to listen to your kind words. Kindness is not always the answer. Sometimes, you must behave roughly. I think I should sleep.
+
+# Dai Ippo
+
+So, today, I am going to go to sleep at 1:45 AM and sleep within 2 AM. I am going to be occupied from 2 PM to 9:30 PM (sharp). From 9:30 to 1:30, I am going to have about 4 hours. Must utilize 3 hours. And I have 1 hour now. 4 hours is not bad for someone who didn't study even for 1 hour per day in the last couple of days.

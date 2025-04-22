@@ -154,6 +154,7 @@ Use the `model.predict()` method. It will iterate over the data in small batches
 ## Chapter 4: Classification and regression
 
 ### Glossary
+
 * *Sample* or *input* $\rightarrow$ One data point that goes into your model
 * *Prediction* or *output* $\rightarrow$ What comes out of your model
 * *Target* $\rightarrow$ The truth. What your model should ideally have predicted, according to an external source of data.
@@ -167,3 +168,30 @@ Use the `model.predict()` method. It will iterate over the data in small batches
 * *Scalar regression*
 * *Vector regression*
 * *Mini-batch or batch*
+
+### Summary of IMDB Analysis
+
+* You usually need to do quite a bit of preprocessing on your raw data to be able to feed it as tensors into a neural network.
+* Stacks of `Dense` layers with `relu` activation can solve a wide range of problems (including sentiment classification), and you'll likely use them frequently.
+* In a binary classification problem (two output classes), your model should end with a `Dense` layer with one unit and a `sigmoid` activation: the output of your model should be a scalar between 0 and 1, encoding a probability.
+* With such a scalar sigmoid output on a binary classification problem, the loss function you should use is `binary_crossentropy`.
+* The `rmsprop` optimizer is generally a good enough choice, whatever your problem.
+* As they get better on their training data, neural networks eventually start over-fitting and end up obtaining increasingly worse results on data they've never seen before. Be sure to always monitor performance on data that is outside of the training set.
+
+### Summary of Reuters analysis
+
+* If you're trying to classify data points among $N$ classes, your model should end with a `Dense` layer of size $N$.
+* In a single-label, multiclass classification problem, your model should end with a `softmax` activation so that it will output a probability distribution over the $N$ output classes.
+* Categorical cross-entropy is almost always the loss function you should use for such problems. It minimizes the distance between the probability distributions output by the model and the true distribution of the targets.
+* There are two ways to handle labels in multiclass classification:
+	* Encoding the labels via categorical encoding (also known as one-hot encoding) and using `categorical_crossentropy` as a loss function.
+	* Encoding the labels as integers and using the `sparse_categorical_crossentropy` loss function.
+* If you need to classify data into a large number of categories, you should avoid creating information bottlenecks in your model due to intermediate layers that are too small.
+
+### Summary of Boston housing analysis
+
+* Regression is done using different loss functions than we used for classification. Mean Squared Error (MSE) is a loss function commonly used for regression.
+* Similarly, evaluation metrics to be used for regression differ from those used for classification; naturally, the concept of accuracy doesn't apply for regression. A common regression metric is mean absolute error (MAE).
+* When features in the input data have values in different ranges, each feature should be scaled independently as a preprocessing step. The quantities used for normalizing the test data are computed using the training data. You should never use any quantity computed on the test data in your workflow, even for something as simple as data normalization.
+* When there is little data available, using K-fold validation is a great way to reliably evaluate a model.
+* When little training data is available, it's preferable to use a small model with few intermediate layers (typically only one or two), in order to avoid severe overfitting.

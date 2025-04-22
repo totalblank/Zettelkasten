@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "50913c5fe7c9ed5c",
+        "id": "6a8892b098371819",
         "type": "tabs",
         "children": [
           {
-            "id": "c99208ab8a094091",
+            "id": "b9a271eae4a55e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,20 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c99208ab8a094091",
+  "active": "b9a271eae4a55e85",
   "lastOpenFiles": [
+    "6 - Main Notes/Python/Deep Learning with Python.md",
     "6 - Main Notes/Journal.md",
+    "6 - Main Notes/Untitled 1.md",
+    "6 - Main Notes/GRE/Vocab.md",
+    "6 - Main Notes/Untitled.md",
+    "6 - Main Notes/GRE/Format.md",
+    "6 - Main Notes/Frontend/React JS.md",
     "6 - Main Notes/Trading/Basics.md",
     "6 - Main Notes/Trading",
     "6 - Main Notes/Pure Mathematics/Roadmap.md",
     "6 - Main Notes/Pure Mathematics/Linear Algebra.md",
     "6 - Main Notes/Pure Mathematics",
-    "6 - Main Notes/Python/Deep Learning with Python.md",
     "6 - Main Notes/Projects.md",
     "6 - Main Notes/Database.md",
     "6 - Main Notes/Building a Project.md",
     "6 - Main Notes/Resources.md",
-    "6 - Main Notes/Frontend/React JS.md",
     "6 - Main Notes/Python/Django.md",
     "6 - Main Notes/GRE",
     "6 - Main Notes/Frontend",
@@ -189,7 +193,6 @@
     "7 - Media/Pasted image 20250330230601.png",
     "7 - Media/Keras and Tensorflow.png",
     "7 - Media/lifting state up in React.png",
-    "6 - Main Notes/GRE/Vocab.md",
     "5 - Templates/Full Note.md",
     "7 - Media/Trading - bullish phases.png",
     "7 - Media/Next.js - route groups - loading skeleton.png",
@@ -209,10 +212,7 @@
     "6 - Main Notes/Promises.md",
     "1 - Rough Notes/React Server Components.md",
     "1 - Rough Notes/Graph Neural Network.md",
-    "6 - Main Notes/Trading.md",
-    "6 - Main Notes/React.md",
     "7 - Media",
-    "3 - Tags/thoughts.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "6 - Main Notes",

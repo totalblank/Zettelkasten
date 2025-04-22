@@ -31,6 +31,29 @@ Use a JSX Converter to translate existing HTML and SVG to JSX.
 * Ternary Operations
 * ES Modules and Import / Export Syntax
 
+# Documentation
+
+## Responding to events
+
+* You can handle events by passing a function as a prop to an element like `<button>`.
+* Event handlers must be passed, not called.
+* You can define an event handler function separately or inline.
+* Event handlers are defined inside a component, so they can access props.
+* You can declare an event handler in a parent and pass it as a prop to a child.
+* You can define your own event handler props with application-specific names.
+* Events propagate upwards. Call `e.stopPropagation()` on the first argument (the event) to prevent that.
+* Events may have unwanted default browser behavior. Call `e.preventDefault()` on the first argument to prevent that.
+* Explicitly calling an event handler prop from a child handler is a good alternative to propagation. Because in this case, the control flow goes from child to parent to child.
+
+## State: A component's memory
+
+The `useState` Hook provides,
+
+1. A state variable that retains data between renders.
+2. A state setter function to update the variable and trigger React to render the component again.
+
+*Hooks* are special functions that are only available while React is rendering. They let you "hook into" different React features.
+
 # Book
 
 Start from page 82.
