@@ -14,3 +14,7 @@ Demand declines $\rightarrow$ Stock price falls $\rightarrow$ Market value falls
 If there is a greater number of buyers than sellers (more demand), the buyers bid the prices of the stocks up to entice sellers to get rid of them.
 
 Conversely, a large number of sellers (more supply) bids down the stocks, hoping to entice buyers to purchase.
+
+Imagine if you was selling a Ford Mustang. You would ask 10,000 for it. Then your neighbor decides to sell his Ford Mustang, so he asks a little lower than you. Then his neighbor decides to sell his mustang so he ask a tiny bit lower. After a little bit, the more sellers the lower the price you can get a Ford Mustang. Maybe the prices goes down to 5,000.
+
+Imagine if it was reversed and lots of people wanted to buy (bid) for a Ford Mustang, but only you were willing to sell. You could ask higher and higher because the buyers was always raising their bid price to get your attention.

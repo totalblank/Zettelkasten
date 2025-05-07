@@ -170,3 +170,11 @@ At this point, I don't love anybody except for my family. But I feel bad for all
 # Dai Ippo
 
 So, today, I am going to go to sleep at 1:45 AM and sleep within 2 AM. I am going to be occupied from 2 PM to 9:30 PM (sharp). From 9:30 to 1:30, I am going to have about 4 hours. Must utilize 3 hours. And I have 1 hour now. 4 hours is not bad for someone who didn't study even for 1 hour per day in the last couple of days.
+
+# Sadness and Sorrow
+
+So, do you think being sad and stuck means shit to anybody? It actually doesn't. She will never feel the way you feel about her. It's best of just move on. Can you love anybody like you loved her? Probably not. But this information does not change anything. There is no way of her to know how intensely you feel for her. Even if she did, you don't know what she would do. Accept the fact that there is nothing to do. Some things are not meant to be. There is the option to bend space and time. There are tricks and workarounds, they work really good if one is clever enough. But, when you are clever, you don't need anybody to give you anything. I want her to give herself to me, everything about her. I want everything of her, every part of her. I want to melt into her and I want her to melt into me. But that is not going to ever happen unless you are clever. In reality, there is no way.
+
+# Get going, there's no time
+
+Make the plan and stick to it unless something unavoidable happens. Never lose sight of the focus. There is no time. 
