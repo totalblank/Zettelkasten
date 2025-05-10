@@ -177,4 +177,12 @@ So, do you think being sad and stuck means shit to anybody? It actually doesn't.
 
 # Get going, there's no time
 
-Make the plan and stick to it unless something unavoidable happens. Never lose sight of the focus. There is no time. 
+Make the plan and stick to it unless something unavoidable happens. Never lose sight of the focus. There is no time. I am not get going.
+
+# The only choice
+
+The only option left is to make a routine and stick to it. I have been saying this for a while now, but I haven't been doing anything about it. 
+
+I never make generic comments. I know myself and everything about myself. I don't need to know anything else. I don't need to know what others think. I only need to focus on myself. Let's remember what Sun Wukong said,
+
+	Come at me, all of you
