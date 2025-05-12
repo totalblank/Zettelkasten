@@ -186,3 +186,23 @@ The only option left is to make a routine and stick to it. I have been saying th
 I never make generic comments. I know myself and everything about myself. I don't need to know anything else. I don't need to know what others think. I only need to focus on myself. Let's remember what Sun Wukong said,
 
 	Come at me, all of you
+
+I can't get her out of my head. My head seems to be burning. I am not feeling sane. Chance of us crossing the road again is fairly low, but it's not zero. I don't want to lose to anyone. I am wasting time. I am the absolute order, I must remember that.
+
+Get your shit together. Get your shit together.
+
+# What to do
+
+Learning react seems to be the best course of action. I need to make value for others. I need to figure out what I can build for others that they are willing to pay for.
+
+Today is my off day. I am not going out today. I had tuition today but I decided to not go because I was not feeling like it. Tuition is not the end goal but I need to do tuition to meet my needs. But it's hard sometimes. I have to routinize my life. I have a lot of things to do.
+
+# May 12$^{th}$, 2025
+
+Everyday, I will go to sleep at 2 AM and wake up at 9:30 AM. I have things to do. What will today's routine be? Let's see. I have about 7 hours now. I should be able to put in 6 hours. I have certain things to do,
+
+1. GRE
+2. Coding and Freelancing
+3. Investing
+
+What should my portfolio and resume consist of? I want to certainly include machine learning, django and python. So, basically

@@ -1,5 +1,6 @@
 {
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "",
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "",
+  "theme": "obsidian"
 }
